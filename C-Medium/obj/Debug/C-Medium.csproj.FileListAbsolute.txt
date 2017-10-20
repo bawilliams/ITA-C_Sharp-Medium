@@ -1,0 +1,7 @@
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Medium\C-Medium\bin\Debug\C-Medium.exe.config
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Medium\C-Medium\bin\Debug\C-Medium.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Medium\C-Medium\bin\Debug\C-Medium.pdb
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Medium\C-Medium\obj\Debug\C-Medium.csprojResolveAssemblyReference.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Medium\C-Medium\obj\Debug\C-Medium.csproj.CoreCompileInputs.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Medium\C-Medium\obj\Debug\C-Medium.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Medium\C-Medium\obj\Debug\C-Medium.pdb
